@@ -1,3 +1,5 @@
+// mejora: alerta implementada
+
 public class BuffetSystem {
 
     public String verificarEstado(String estado) {
